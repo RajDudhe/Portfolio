@@ -1,0 +1,32 @@
+[
+  {
+    "name": "AI Powered E-Commerce Website",
+    "desc": "This website is build with MERN stack, Razorpay payments, JWT auth, responsive design, smart search, and full admin control.",
+    "image": "ecommerce",
+    "category": "mern",
+    "links": {
+      "view": "https://onecart-frontend-asjo.onrender.com/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Smart AI Bot",
+    "desc": "It is build with React.js, Gemini and Hugging Face APIs, offering real-time responses, smart interactions, and responsive design.",
+    "image": "smartaibot",
+    "category": "mern",
+    "links": {
+      "view": "https://smart-ai-bot.netlify.app/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Food Ordering Website",
+    "desc": "This site is build using React.js, Tailwind, Redux; features category filtering, cart logic, toast notifications, and smooth UI.",
+    "image": "food",
+    "category": "mern",
+    "links": {
+      "view": "https://hotdishes.netlify.app/",
+      "code": ""
+    }
+  }
+]
